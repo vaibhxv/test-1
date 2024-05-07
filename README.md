@@ -1,4 +1,4 @@
-# FileUpload
+# Test-1
 File Upload to MongoDB with Node.js
 
 This project is a simple Node.js application that allows users to upload PDF files to a MongoDB database. It provides an API for file uploads and serves as a basic example of how to handle file storage and retrieval in a Node.js application.
@@ -41,13 +41,13 @@ Before you begin, ensure you have the following software installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/chiragmakkar13/FileUpload.git
+   git clone https://github.com/vaibhxv/test-1.git
    ```
 
 2. Navigate to the project folder:
 
    ```bash
-   cd FileUpload
+   cd test-1
    ```
 
 3. Install the dependencies:
