@@ -1,6 +1,6 @@
 {
   "name": "fileupload",
-  "version": "1",
+  "version": "2",
   "description": "File Upload to MongoDB with Node.js",
   "main": "app.js",
   "scripts": {
