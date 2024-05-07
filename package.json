@@ -1,0 +1,23 @@
+{
+  "name": "fileupload",
+  "version": "1.0.0",
+  "description": "File Upload to MongoDB with Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Vaibhav Rohaan",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "html": "^1.0.0",
+    "mongoose": "^8.3.4",
+    "multer": "^1.4.5-lts.1",
+    "path": "^0.12.7"
+  }
+}
